@@ -17,16 +17,6 @@ Welcome to my GitHub profile! I'm a passionate learner with a deep interest in e
 - Proficient in AutoCAD and REVIT, with perfect knowledge of both programs;
 - Experience in MEP engineering and design.
 
-## Goals
-
-- Expand my knowledge in energy efficiency and environmental pollution control;
-- Gain more experience in projects focused on minimizing air and water pollution;
-- Collaborate on projects related to Energy and Environmental engineering and MEP engineering.
-
-## Get in touch
-
-Feel free to reach out to me if you’d like to collaborate or discuss energy efficiency, 3D-BIM MEP and design models, or interesting problems!
-
 
 <!---
 matteofrongillo/matteofrongillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
