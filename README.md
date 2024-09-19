@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate learner with a deep interest in e
 - LaTeX for writing school notes;
 - Experience in 3D-BIM modeling and sustainable urban development;
 - Proficient in AutoCAD and REVIT, with perfect knowledge of both programs;
-- Experience in MEP engineering and design.
+- Experience in MEP (HVAC) engineering and design.
 
 
 <!---
