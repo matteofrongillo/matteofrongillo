@@ -1,11 +1,11 @@
 # Hello, I'm Matteo!
 
-Welcome to my GitHub profile! I'm a passionate learner with a deep interest in energy efficiency, environmental engineering, MEP engineering, and programming.
+Welcome to my GitHub profile! I'm a passionate learner with a deep interest in energy efficiency, environmental engineering, MEP (HVAC) engineering, and programming.
 
 ## About me
 
 - I am currently studying Energy and Environmental Engineering at HSLU;
-- I have a background as a 2D and 3D-BIM MEP designer, with a focus on heating systems;
+- I have a background as a 2D and 3D-BIM HVAC designer, with a focus on heating systems;
 - I have experience in university research, particularly in 3D-BIM modeling of BIPV and BAPV photovoltaic panels, as well as energy-efficient urban redevelopment projects aimed at zero-emission
   buildings;
 - I've been playing the drums for almost 15 years, and I’m a big fan of rock music.
