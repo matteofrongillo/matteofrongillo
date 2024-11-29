@@ -17,6 +17,12 @@ Welcome to my GitHub profile! I'm a passionate learner with a deep interest in e
 - Proficient in AutoCAD and REVIT, with perfect knowledge of both programs;
 - Experience in MEP (HVAC) engineering and design.
 
+***
+More about me:
+
+<div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="matteo-frongillo-925b6a271" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/matteo-frongillo-925b6a271?trk=profile-badge">Matteo Frongillo</a>
+</div>
 
 <!---
 matteofrongillo/matteofrongillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
