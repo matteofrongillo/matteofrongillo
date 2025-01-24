@@ -1,24 +1,13 @@
-# Hello, I'm Matteo!
+# Hi, I'm Matteo!
 
-Welcome to my GitHub profile! I'm a passionate learner with a deep interest in energy efficiency, environmental engineering, MEP (HVAC) engineering, and programming.
-
-## About me
-
-- I am currently studying Energy and Environmental Engineering at HSLU;
-- I have a background as a 2D and 3D-BIM HVAC designer, with a focus on heating systems;
-- I have experience in university research, particularly in 3D-BIM modeling of BIPV and BAPV photovoltaic panels, as well as energy-efficient urban redevelopment projects aimed at zero-emission
-  buildings;
-- I've been playing the drums for almost 15 years, and I’m a big fan of rock music.
+Energy and Environmental Engineering student at HSLU with experience in 3D-BIM modeling, HVAC design, and sustainable urban development.
 
 ## Skills
 
-- LaTeX for writing school notes;
-- Experience in 3D-BIM modeling and sustainable urban development;
-- Proficient in AutoCAD and REVIT, with perfect knowledge of both programs;
-- Experience in MEP (HVAC) engineering and design.
-
-***
-More about me:
+- LaTeX and Bibtex
+- Python Basics
+- AutoCAD & REVIT 3D-BIM modeling
+- Linux OS
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://ch.linkedin.com/in/matteo-frongillo-925b6a271?trk=profile-badge)
 
