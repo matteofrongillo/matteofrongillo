@@ -4,7 +4,7 @@ Energy and Environmental Engineering student at HSLU with experience in 3D-BIM m
 
 ## Skills
 
-- LaTeX and Bibtex
+- LaTeX and BibTeX
 - Python Basics
 - AutoCAD & REVIT 3D-BIM modeling
 - Linux OS
